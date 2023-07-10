@@ -1,0 +1,190 @@
+.hp-bg-img {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.hp-card {
+    background-color: #ffffff;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding: 9px;
+}
+
+.hp-card-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 12px;
+}
+
+.hp-card-para {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 9px;
+}
+
+.hp-card-button {
+    background-color: #f19116;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 6px;
+    border-width: 0px;
+    margin-top: 12px;
+    margin-bottom: 9px;
+    height: 35px;
+    width: 100px;
+}
+
+.flp-bg-color {
+    background-color: #222222;
+}
+
+.flp-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 24px;
+    font-weight: normal;
+    margin-left: 12px;
+    margin-top: 18px;
+    margin-bottom: 12px;
+}
+
+.flat-card {
+    background-color: #ffffff;
+    border-radius: 9px;
+    margin: 12px;
+}
+
+.flat-card-img {
+    height: 170px;
+    width: 100px;
+    margin-right: 6px;
+    border-radius: 9px;
+}
+
+.flat-card-heading {
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 9px;
+    margin-top: 9px;
+    margin-bottom: 6px;
+}
+
+.flat-card-para {
+    color: #6c6b70;
+    font-family: "Bree Serif";
+    font-size: 16px;
+    font-weight: normal;
+    width: 300px;
+    margin-left: 9px;
+    margin-top: 3px;
+    margin-bottom: 6px;
+}
+
+.flp-button {
+    background-color: #f19116;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-left: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    height: 35px;
+    width: 80px;
+}
+
+.flat-dp-bg {
+    background-color: #222222;
+}
+
+.flat-det-img {
+    height: 400px;
+    width: 500px;
+}
+
+.price-tag {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 24px;
+    font-weight: normal;
+    margin-left: 14px;
+    margin-top: 14px;
+    margin-bottom: 9px;
+}
+
+.lt-img {
+    height: 28px;
+    width: 30px;
+    margin-left: 14px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.address {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 18px;
+    font-weight: normal;
+    margin-left: 9px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.h-line {
+    color: #ffffff;
+}
+
+.flat-desc-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 24px;
+    font-weight: normal;
+    margin-left: 14px;
+    margin-top: 12px;
+    margin-bottom: 9px;
+}
+
+.flat-desc-para {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    font-weight: normal;
+    width: 350px;
+    margin-left: 14px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.dp-button {
+    background-color: #f19116;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 4px;
+    border-width: 0px;
+    margin-left: 14px;
+    margin-top: 12px;
+    margin-bottom: 14px;
+    height: 35px;
+    width: 85px;
+}
